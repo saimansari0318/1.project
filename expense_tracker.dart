@@ -20,7 +20,7 @@ void main() {
     } else if (user_input == 3) {
       total_expenses(expenses);
     } else if (user_input == 4) {
-      print('thanks for coming bro allah hafiz');
+      print('thanks for coming bro Allah hafiz');
       break;
     } else {
       print('invalid input bhai input dobara  do .....');
